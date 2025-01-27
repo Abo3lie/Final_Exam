@@ -32,8 +32,8 @@ This project demonstrates the use of multithreading in Java through four classes
 
 ## How to Run the Project
 
-1. **Locate the JAR file:**
-   - Go to the `dist` folder where the `.jar` file is located.
+1. **the JAR file:**
+   - Go to the `dist` folder and download which `Task*.jar` you want.
 
 2. **Run the JAR file:**
    - Open the command prompt (`cmd`).
@@ -44,7 +44,7 @@ This project demonstrates the use of multithreading in Java through four classes
 
    - Run the JAR file using the following command:
      ```bash
-     java -jar Final_Exam.jar
+     java -jar Task*.jar
      ```
 
    - The program will execute, and the output will appear in the terminal.
